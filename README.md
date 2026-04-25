@@ -17,4 +17,4 @@ This project analyzes product sales regions versus current inventory availabilit
 ## Full Excel Dashboard
 Due to GitHub file size limits, full workbook available here:
 
-[PASTE_YOUR_GOOGLE_DRIVE_LINK](https://docs.google.com/spreadsheets/d/1gHN8-0l9Jh6OAnj20N8T8H9UHjFAlYis/edit?usp=sharing&ouid=101430663332512547332&rtpof=true&sd=true)
+[Download Full Excel Dashboard](https://docs.google.com/spreadsheets/d/1gHN8-0l9Jh60Anj20N8T89HUjFA1Yis/edit?usp=sharing)
