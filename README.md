@@ -1,7 +1,7 @@
 # Regional Inventory vs Sales Analysis Dashboard
 
 ## Project Overview
-This project analyzes product sales regions versus current inventory availability using map-based dashboards.
+This project analyzes regional sales demand versus current inventory availability using map-based dashboards and pivot-driven analysis.
 
 ## Key Features
 - Sales Region Mapping
@@ -10,11 +10,15 @@ This project analyzes product sales regions versus current inventory availabilit
 - State-wise Pivot Analysis
 
 ## Tools Used
-- Excel
+- Microsoft Excel
 - Pivot Tables
 - Map Charts
+- Inventory Analytics
 
-## Full Excel Dashboard
-Due to GitHub file size limits, full workbook available here:
+## Project Highlights
+- Developed an Excel-based geo-spatial dashboard to analyze regional demand versus inventory distribution.
+- Built stock and sales mapping using map charts, pivot tables and interactive filters.
+- Performed state-level supply-demand analysis to generate business insights for decision making.
 
-[Download Full Excel Dashboard](https://docs.google.com/spreadsheets/d/1gHN8-0l9Jh60Anj20N8T89HUjFA1Yis/edit?usp=sharing)
+## Note
+Detailed dashboard workbook available upon request.
