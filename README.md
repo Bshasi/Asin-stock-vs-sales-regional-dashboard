@@ -1,4 +1,4 @@
-# ASIN Stock vs Sales Regional Dashboard
+# Regional Inventory vs Sales Analysis Dashboard
 
 ## Project Overview
 This project analyzes product sales regions versus current inventory availability using map-based dashboards.
